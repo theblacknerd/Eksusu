@@ -1,0 +1,100 @@
+.logo {
+    width: 70px !important;
+    height: 70px !important;
+}
+
+
+.executives-list {
+    margin-bottom: 28px;
+}
+
+.btn_prev {
+    padding: 5px 10px 5px 10px;
+    color: #161F37;
+    border: solid 1px #161F37;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.btn_next {
+    padding: 5px 10px 5px 10px;
+    color: #161F37;
+    border: solid 1px #161F37;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.customNavigation a:hover {
+    color: #3B60C9 !important;
+}
+
+@media only screen and (min-width: 992px) {
+    .single-committee-member h3 {
+        height: 156px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+.navbar-brand .text-logo {
+    text-align: right;
+    margin-top: 12px;
+    margin-left: 30px;
+}
+
+.navbar-brand .text-logo .top {
+    display: block;
+    font-size: 30px;
+    font-weight: bold;
+    color: #ff0101;
+    margin-bottom: 3px;
+}
+
+.navbar-brand .text-logo .bottom {
+    display: block;
+    font-size: 14px;
+    color: #161F37;
+}
+
+footer .navbar-brand .text-logo .top {
+    color: #fff;
+}
+
+footer .navbar-brand .text-logo .bottom {
+    color: #8b8b8b;
+}
+
+.emojione {
+    height: 20px;
+    width: 20px;
+}
+
+.blog-content {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+a.normal-link {
+    color: initial;
+}
+
+.hover:hover {
+    cursor: pointer;
+}
+
+#page-title-area {
+    background-image: url(../../img/bighero.jpg);
+}
+
+.contact-content-inner div.alert.alert-dismissible {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.scroll-top {
+    bottom: 90px;
+}
